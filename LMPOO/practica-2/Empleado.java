@@ -10,6 +10,7 @@ public class Empleado{
 		this.nombre = nombre;
 		contador++;
 		numEmpleado = contador ;
+		System.out.println("Se creo un empleado");
 	}
 
 	void setNombre(String nombre){
