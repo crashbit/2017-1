@@ -14,7 +14,7 @@ int main(){
 
 	printf("\n%p -> %d", p, *p);
 	printf("\n%p -> %d", p, p[0]);
-	//printf("\n%p -> %d", p, p[2]);
+	printf("\n%p -> %d", p, p[2]);
 
 	printf("\n\n");
 	return 0;
