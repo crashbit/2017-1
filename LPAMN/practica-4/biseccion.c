@@ -19,7 +19,7 @@ int main(){
 
 		printf("\n %f", c);
 
-	}while(fabs(a-b)< tol|| f(c) == 0);
+	}while(fabs(a-b)> tol|| f(c) == 0);
 
 }
 
