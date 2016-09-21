@@ -1,7 +1,7 @@
 public class Cajero extends Empleado{
 
-	public Cajero(){
-		super();
+	public Cajero(String nom){
+		super(nom);
 		sueldo = 100;
 	}
 

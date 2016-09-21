@@ -1,7 +1,7 @@
 public class Gerente extends Empleado{
 
-	public Gerente(){
-		super();
+	public Gerente(String nom){
+		super(nom);
 		sueldo = 300;
 	}
 
