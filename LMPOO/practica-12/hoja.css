@@ -1,0 +1,31 @@
+p{
+	color: red;
+	font-size: 20px;
+}
+
+p:hover{
+	color: blue;
+	font-size: 30px;
+}
+
+
+img{
+	width: 100px;
+}
+
+img:hover{
+	width: 300px;
+}
+
+a{
+	color: black;
+}
+
+.alumno{
+	font-size: 40px;
+}
+
+.alumno p{
+	color: blue;
+	font-size: 40px;
+}
